@@ -5,8 +5,8 @@ go 1.22
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.7.0
 	github.com/Azure/azure-sdk-for-go/sdk/data/azcosmos v1.0.3
-	github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus v1.7.1
-	github.com/Azure/go-amqp v1.0.5
+	github.com/Azure/azure-sdk-for-go/sdk/messaging/azservicebus v1.7.3
+	github.com/Azure/go-amqp v1.1.0
 	github.com/gin-contrib/cors v1.7.2
 	github.com/gin-gonic/gin v1.10.0
 	github.com/gofrs/uuid v4.4.0+incompatible
